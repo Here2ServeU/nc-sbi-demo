@@ -8,7 +8,7 @@ A fully interactive front-end demonstration of a proposed web hosting and conten
 
 ## Live Demo
 
-[View the Live Demo](https://YOUR-USERNAME.github.io/nc-sbi-demo/)
+[View the Live Demo](https://here2serveu.github.io/nc-sbi-demo/)
 
 ---
 
